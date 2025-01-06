@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-
+I'm a cyber security analyst, and focusing on below areas of studies actively:
+--> Cyber Threat Intelligence (nowadays working on automation of rule generation based on IOC data)
+--> Web Security (mostly SSRF and API pentesting)
+--> Malware Analysis (establishing concrete background on C and Assembly, preparing for GIAC GREM)
+--> OSINT/SOCMINT (continuously exercising new tools)
 
 My reading journey and the progress:
 
 
-**Book 1: "The Pragmatic Programmer"**  
-<div style="width: 100%; background-color: lightgray;">
-  <div style="width: 60%; background-color: green;">&nbsp;</div>
-</div>
-60%
 
 <!--
 **5ilent5pring/5ilent5pring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
