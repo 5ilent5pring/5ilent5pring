@@ -25,6 +25,8 @@ My reading journey and the progress:
 - "Learning Malware Analysis", Monnappa K.A., `░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
 - "Practical Malware Analysis", Michael Sikorski and Andrew Honig, `░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
 
+![Profile views](https://komarev.com/ghpvc/?username=5ilent5pring)
+
 <!--
 **5ilent5pring/5ilent5pring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
