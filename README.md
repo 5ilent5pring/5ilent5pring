@@ -13,6 +13,7 @@ My work experience cover:
 * **Dynamic Application Security Testing (DAST)**
 * **Network Analysis** (Wireshark, Tshark)
 * **Corporate Security Design and Blue Teaming** (Velociraptor-Suricata-Elasticsearch triangle)
+* * **Web Scraping and SOCMINT** (Golang and Bash scripts, some tools etc.)
 
 My reading journey and the progress:
 - "Practical C", Steve Oualline `████░░░░░░░░░░░░░░░░░░░░░░░` 20%
