@@ -13,9 +13,12 @@ My work experience cover:
 - Dynamic Application Security Testing (DAST)
 - Network Analysis (Wireshark, Tshark)
 - Corporate Security Design and Blue Teaming (Velociraptor-Suricata-Elasticsearch triangle)
+
 My reading journey and the progress:
 
-
+<div style="width: 100%; background-color: lightgray; height: 20px; border-radius: 5px;">
+  <div style="width: 60%; background-color: blue; height: 100%; border-radius: 5px;"></div>
+</div>
 
 <!--
 **5ilent5pring/5ilent5pring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
