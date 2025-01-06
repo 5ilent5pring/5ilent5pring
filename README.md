@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+
+My reading journey and the progress:
+
+
+**Book 1: "The Pragmatic Programmer"**  
+<div style="width: 100%; background-color: lightgray;">
+  <div style="width: 60%; background-color: green;">&nbsp;</div>
+</div>
+60%
+
 <!--
 **5ilent5pring/5ilent5pring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
