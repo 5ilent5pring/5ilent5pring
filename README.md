@@ -5,7 +5,14 @@ I'm a cyber security analyst, and focusing on below areas of studies actively:
 - Web Security (mostly SSRF and API pentesting)
 - Malware Analysis (establishing concrete background on C and Assembly, preparing for GIAC GREM)
 - OSINT/SOCMINT (continuously exercising new tools)
+- Digital Forensics and Incident Response ()
 
+My work experience cover:
+- Mobile and Web application security (Burp Suite, MITM Proxy)
+- Static Application Security Testing (SAST)
+- Dynamic Application Security Testing (DAST)
+- Network Analysis (Wireshark, Tshark)
+- Corporate Security Design and Blue Teaming (Velociraptor-Suricata-Elasticsearch triangle)
 My reading journey and the progress:
 
 
