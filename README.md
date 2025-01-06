@@ -3,7 +3,7 @@
 I'm a cyber security analyst, and focusing on below areas of studies actively:
 * **Cyber Threat Intelligence** (nowadays working on automation of rule generation based on IOC data)
 * **Web Security** (mostly SSRF and API pentesting)
-* **Malware Analysis** (establishing concrete background on C and Assembly, preparing for GIAC GREM)
+* **Malware Analysis** (establishing concrete background on C and Assembly, preparing for **GIAC GREM**)
 * **OSINT/SOCMINT** (continuously exercising new tools)
 * **Digital Forensics and Incident Response** ()
 
