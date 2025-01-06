@@ -1,25 +1,23 @@
 ## Hi there 👋
 
 I'm a cyber security analyst, and focusing on below areas of studies actively:
-- Cyber Threat Intelligence (nowadays working on automation of rule generation based on IOC data)
-- Web Security (mostly SSRF and API pentesting)
-- Malware Analysis (establishing concrete background on C and Assembly, preparing for GIAC GREM)
-- OSINT/SOCMINT (continuously exercising new tools)
-- Digital Forensics and Incident Response ()
+* **Cyber Threat Intelligence** (nowadays working on automation of rule generation based on IOC data)
+* **Web Security** (mostly SSRF and API pentesting)
+* **Malware Analysis** (establishing concrete background on C and Assembly, preparing for GIAC GREM)
+* **OSINT/SOCMINT** (continuously exercising new tools)
+* **Digital Forensics and Incident Response** ()
 
 My work experience cover:
-- Mobile and Web application security (Burp Suite, MITM Proxy)
-- Static Application Security Testing (SAST)
-- Dynamic Application Security Testing (DAST)
-- Network Analysis (Wireshark, Tshark)
-- Corporate Security Design and Blue Teaming (Velociraptor-Suricata-Elasticsearch triangle)
+* **Mobile and Web application security** (Burp Suite, MITM Proxy)
+* **Static Application Security Testing (SAST)**
+* **Dynamic Application Security Testing (DAST)**
+* **Network Analysis** (Wireshark, Tshark)
+* **Corporate Security Design and Blue Teaming** (Velociraptor-Suricata-Elasticsearch triangle)
 
 My reading journey and the progress:
-
-<div style="width: 100%; background-color: lightgray; height: 20px; border-radius: 5px;">
-  <div style="width: 60%; background-color: blue; height: 100%; border-radius: 5px;"></div>
-</div>
-
+- "Practical C", Steve Oualline `█░░░░░░░░░░░░░░░░░░░░░░░░░░` 5%
+-
+-
 <!--
 **5ilent5pring/5ilent5pring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
