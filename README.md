@@ -8,12 +8,12 @@ I'm a cyber security analyst, and focusing on below areas of studies actively:
 * **Digital Forensics and Incident Response** ()
 
 My work experience cover:
-* **Mobile and Web application security** (Burp Suite, MITM Proxy)
-* **Static Application Security Testing (SAST)**
-* **Dynamic Application Security Testing (DAST)**
+* **Mobile and Web application security** (Burp Suite, MITM Proxy, MobSF, Frida, etc.)
+  * **Static Application Security Testing (SAST)**
+  * **Dynamic Application Security Testing (DAST)**
 * **Network Analysis** (Wireshark, Tshark)
 * **Corporate Security Design and Blue Teaming** (Velociraptor-Suricata-Elasticsearch triangle)
-* * **Web Scraping and SOCMINT** (Golang and Bash scripts, some tools etc.)
+* **Web Scraping and SOCMINT** (Golang and Bash scripts, some tools etc.)
 
 My reading journey and the progress:
 - "Practical C", Steve Oualline `████░░░░░░░░░░░░░░░░░░░░░░░` 20%
