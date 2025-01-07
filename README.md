@@ -16,14 +16,14 @@ My work experience cover:
 * **Web Scraping and SOCMINT** (Golang and Bash scripts, some tools etc.)
 
 My reading journey and the progress:
-- "Practical C", Steve Oualline `████░░░░░░░░░░░░░░░░░░░░░░░` 20%
-- "Practical Reverse Engineering", Bruce Dang, `░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
-- "Bug Bounty Bootcamp", Vickie Li, `████████░░░░░░░░░░░░░░░░░░░` 40%
-- "Black Hat GraphQL", Nick Aleks and Dolev Farhi, `░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
-- "Hacking APIs", Corey Ball, `████████████████████████████` 100%
-- "Digital Forensics and Incident Response", Gerard Johansen,`░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
-- "Learning Malware Analysis", Monnappa K.A., `░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
-- "Practical Malware Analysis", Michael Sikorski and Andrew Honig, `░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 0%
+- "Practical C", Steve Oualline `████░░░░░░░░░░░░░░░░` 20%
+- "Practical Reverse Engineering", Bruce Dang, `░░░░░░░░░░░░░░░░░░░░` 0%
+- "Bug Bounty Bootcamp", Vickie Li, `████████░░░░░░░░░░░░` 40%
+- "Black Hat GraphQL", Nick Aleks and Dolev Farhi, `░░░░░░░░░░░░░░░░░░░░` 0%
+- "Hacking APIs", Corey Ball, `████████████████████` 100%
+- "Digital Forensics and Incident Response", Gerard Johansen,`░░░░░░░░░░░░░░░░░░░░` 0%
+- "Learning Malware Analysis", Monnappa K.A., `░░░░░░░░░░░░░░░░░░░░` 0%
+- "Practical Malware Analysis", Michael Sikorski and Andrew Honig, `█░░░░░░░░░░░░░░░░░░░` 5%
 
 ![Profile views](https://komarev.com/ghpvc/?username=5ilent5pring)
 
