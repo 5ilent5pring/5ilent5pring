@@ -16,7 +16,7 @@ My work experience cover:
 * **Web Scraping and SOCMINT** (Golang and Bash scripts, some tools etc.)
 
 My reading journey and the progress:
-- "Practical C", Steve Oualline `████░░░░░░░░░░░░░░░░` 20%
+- "Practical C", Steve Oualline `██████░░░░░░░░░░░░░░` 30%
 - "Practical Reverse Engineering", Bruce Dang, `░░░░░░░░░░░░░░░░░░░░` 0%
 - "Bug Bounty Bootcamp", Vickie Li, `████████░░░░░░░░░░░░` 40%
 - "Black Hat GraphQL", Nick Aleks and Dolev Farhi, `░░░░░░░░░░░░░░░░░░░░` 0%
