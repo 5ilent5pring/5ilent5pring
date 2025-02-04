@@ -16,6 +16,8 @@ My work experience cover:
 * **Web Scraping and SOCMINT** (Golang and Bash scripts, some tools etc.)
 
 My reading journey and the progress:
+- "Operationalizing Threat Intelligence", Kyle Wilhoit, Joseph Opacki `░░░░░░░░░░░░░░░░░░░░` 0%
+- "Cyber Threat Intelligence", Martin Lee `░░░░░░░░░░░░░░░░░░░░` 0%
 - "Practical C", Steve Oualline `██████░░░░░░░░░░░░░░` 30%
 - "Practical Reverse Engineering", Bruce Dang, `░░░░░░░░░░░░░░░░░░░░` 0%
 - "Bug Bounty Bootcamp", Vickie Li, `████████░░░░░░░░░░░░` 40%
