@@ -16,6 +16,7 @@ My work experience cover:
 * **Web Scraping and SOCMINT** (Golang and Bash scripts, some tools etc.)
 
 My reading journey and the progress:
+(priority goes to CTI books...)
 - "Operationalizing Threat Intelligence", Kyle Wilhoit, Joseph Opacki `░░░░░░░░░░░░░░░░░░░░` 0%
 - "Cyber Threat Intelligence", Martin Lee `░░░░░░░░░░░░░░░░░░░░` 0%
 - "Practical C", Steve Oualline `██████░░░░░░░░░░░░░░` 30%
