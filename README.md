@@ -18,7 +18,7 @@ My work experience cover:
 My reading journey and the progress:
 (priority goes to CTI books...)
 - "Operationalizing Threat Intelligence", Kyle Wilhoit, Joseph Opacki `░░░░░░░░░░░░░░░░░░░░` 0%
-- "Cyber Threat Intelligence", Martin Lee `██░░░░░░░░░░░░░░░░░░` 10%
+- "Cyber Threat Intelligence", Martin Lee `████░░░░░░░░░░░░░░░░` 20%
 - "Practical C", Steve Oualline `██████░░░░░░░░░░░░░░` 30%
 - "Practical Reverse Engineering", Bruce Dang, `░░░░░░░░░░░░░░░░░░░░` 0%
 - "Bug Bounty Bootcamp", Vickie Li, `████████░░░░░░░░░░░░` 40%
