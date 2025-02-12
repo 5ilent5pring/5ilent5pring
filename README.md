@@ -8,7 +8,7 @@ I'm a cyber security analyst, and focusing on below areas of studies actively:
 * **Digital Forensics and Incident Response**
 
 My work experience cover:
-* **Mobile and Web application security** (Burp Suite, MITM Proxy, MobSF, Frida, etc.)
+* **Mobile and Web application security** (Burp Suite, MITM Proxy, Wireshark, MobSF, Frida, etc.)
   * **Static Application Security Testing (SAST)**
   * **Dynamic Application Security Testing (DAST)**
 * **Network Analysis** (Wireshark, Tshark)
@@ -17,16 +17,16 @@ My work experience cover:
 
 My reading journey and the progress:
 (priority goes to CTI books...)
-- "Operationalizing Threat Intelligence", Kyle Wilhoit, Joseph Opacki `░░░░░░░░░░░░░░░░░░░░` 0%
-- "Cyber Threat Intelligence", Martin Lee `████░░░░░░░░░░░░░░░░` 20%
-- "Practical C", Steve Oualline `██████░░░░░░░░░░░░░░` 30%
-- "Practical Reverse Engineering", Bruce Dang, `░░░░░░░░░░░░░░░░░░░░` 0%
-- "Bug Bounty Bootcamp", Vickie Li, `████████░░░░░░░░░░░░` 40%
-- "Black Hat GraphQL", Nick Aleks and Dolev Farhi, `░░░░░░░░░░░░░░░░░░░░` 0%
-- "Hacking APIs", Corey Ball, `████████████████████` 100%
-- "Digital Forensics and Incident Response", Gerard Johansen,`░░░░░░░░░░░░░░░░░░░░` 0%
-- "Learning Malware Analysis", Monnappa K.A., `░░░░░░░░░░░░░░░░░░░░` 0%
-- "Practical Malware Analysis", Michael Sikorski and Andrew Honig, `█░░░░░░░░░░░░░░░░░░░` 5%
+- "Operationalizing Threat Intelligence", Kyle Wilhoit, Joseph Opacki ░░░░░░░░░░░░░░░░░░░░ 0%
+- "Cyber Threat Intelligence", Martin Lee ██████░░░░░░░░░░░░░░ 30%
+- "Practical C", Steve Oualline ██████░░░░░░░░░░░░░░ 30%
+- "Practical Reverse Engineering", Bruce Dang, ░░░░░░░░░░░░░░░░░░░░ 0%
+- "Bug Bounty Bootcamp", Vickie Li, ████████░░░░░░░░░░░░ 40%
+- "Black Hat GraphQL", Nick Aleks and Dolev Farhi, ░░░░░░░░░░░░░░░░░░░░ 0%
+- "Hacking APIs", Corey Ball, ████████████████████ 100%
+- "Digital Forensics and Incident Response", Gerard Johansen,░░░░░░░░░░░░░░░░░░░░ 0%
+- "Learning Malware Analysis", Monnappa K.A., ░░░░░░░░░░░░░░░░░░░░ 0%
+- "Practical Malware Analysis", Michael Sikorski and Andrew Honig, █░░░░░░░░░░░░░░░░░░░ 5%
 
 ![Profile views](https://komarev.com/ghpvc/?username=5ilent5pring)
 
