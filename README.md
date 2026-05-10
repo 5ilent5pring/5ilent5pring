@@ -136,7 +136,7 @@ Priority areas:
 - Blog: [5ilent5pring.org](https://5ilent5pring.org)
 - GitHub: [github.com/5ilent5pring](https://github.com/5ilent5pring)
 - X/Twitter: [@cybercaretta](https://x.com/cybercaretta)
-- LinkedIn: [sertac-akman](https://www.linkedin.com/in/sertac-akman/)
+- LinkedIn: [sertac-akman](https://www.linkedin.com/in/sertac-akman-6328437b/)
 
 ---
 
